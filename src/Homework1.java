@@ -15,7 +15,7 @@ import java.awt.GridLayout;
 import java.util.Stack;
 
 
-/*public class Homework1 {
+public class Homework1 {
 
 	public static String inPut;
 
@@ -42,7 +42,7 @@ import java.util.Stack;
 		tree = (node) a.pop();
 		return tree;
 
-	}*/
+	}
 
     public class Homework1 extends JPanel
       implements TreeSelectionListener {
